@@ -1,0 +1,19 @@
+Data Summary
+-------------
+Shape: (4260, 15)
+Index: RangeIndex(start=0, stop=4260, step=1)
+Size: 63900
+Airline value counts:
+Virgin Australia      1245
+Qantas                1239
+Jetstar                920
+Tigerair Australia     567
+Rex Airlines           163
+QantasLink             112
+Regional Express         8
+Ozjet                    6
+
+Cancellation_Rates:
+  mean   = 0.048594
+  std    = 0.092377
+  median = 0.027184
